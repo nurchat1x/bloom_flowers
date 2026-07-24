@@ -1,5 +1,5 @@
-/** Replace with the real WhatsApp number (country code, digits only). */
-export const WHATSAPP_NUMBER = '77001234567'
+/** WhatsApp number (country code, digits only). */
+export const WHATSAPP_NUMBER = '77780565844'
 
 export const INSTAGRAM_URL = 'https://www.instagram.com/bloom_flowers_shym/'
 export const INSTAGRAM_HANDLE = '@bloom_flowers_shym'
